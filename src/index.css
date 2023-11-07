@@ -27,6 +27,7 @@
   align-self:center;
   color:#ffffff;
   transition:background 0.75s;
+  font-size:2rem;
 }
 
 .btn-container {
