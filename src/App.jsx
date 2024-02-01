@@ -1,7 +1,6 @@
 import "./index.css";
 import {useState} from "react";
 
-
 export default function App(){
   const [temp,setTemp] = useState(36);
   const [clr,setClr] = useState("orange");
